@@ -17,7 +17,7 @@ public class calculadora {
                         "2. Restar dos números\r\n" + // 
                         "3. Multiplicar dos números\r\n" + // 
                         "4. Dividir dos números\r\n" + // 
-                        "5.Factorial de un número\r\n" + //
+                        "5. Factorial de un número\r\n" + //
                         "6. Salir\r\n");
                         System.err.println("Opcion seleccionada");
                         varControl = scanner.nextInt ();
